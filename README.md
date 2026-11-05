@@ -2,7 +2,7 @@
 
 Statistical modelling of AEX daily returns from 1994 to 2023, covering distribution fitting, one-day Value-at-Risk and Monte Carlo confidence intervals.
 
-**TU/e · Mathematical Statistics (2WS30) · Aug - Oct 2024 · Grade 9.0/10**
+**Mathematical Statistics · Aug - Oct 2024 · Grade 9.0/10**
 
 <!-- REPORT_LINK -->
 
